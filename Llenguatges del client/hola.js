@@ -3,7 +3,7 @@
 <body>
  
 <script>
-  document.write("Hola, Ramis!");
+  document.write("Hola, Eclipse!");
 </script>
  
 </body>
