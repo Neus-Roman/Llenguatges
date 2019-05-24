@@ -1,3 +1,3 @@
 <script type="text/vbscript">
-  document.write("Hola, Ramis!")
+  document.write("Hola, Eclipse!")
 </script>
